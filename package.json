@@ -1,0 +1,14 @@
+{
+  "name": "Info",
+  "description": "Simple example",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  },
+  "devDependencies": {
+    "wikipedia-js": "0.0.6"
+  }
+}
